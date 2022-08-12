@@ -12,14 +12,13 @@ Developers who create Food, Body.. for me
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+![ohe1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohe1013&show_icons=true&theme=radical)
 
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhgusrms23@gmail.com)](dhgusrms23@gmail.com)
+ [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dhgusrms23)](https://velog.io/@dhgusrms23)
 
 
 🏅 Algorithm Bronze Level. 
