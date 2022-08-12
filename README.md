@@ -1,7 +1,9 @@
 ### Hi Welcome, i'm OH Hyunkeun 👋
 
 #### Web Devleoper / Front (feat. Back)
-Developers who create Food, Body.. for me   
+Like making good dishes for Me
+Like making good lifting for Me (S+B+D about 540kg)
+i want making good Code for US (not america) 
 
 
 🛠️ Stacks
@@ -27,7 +29,7 @@ Developers who create Food, Body.. for me
 Programmers - LV2
 
 
-🏆 License
+💐 License
 |Prize|Date|
 |------|---|
 |Engineer Information Processing|Apr, 2022|
