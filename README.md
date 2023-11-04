@@ -2,7 +2,7 @@
 
 #### Web Devleoper / Front (feat. Back)
 Like making good dishes for Me
-Like making good lifting for Me (S+B+D about 540kg)
+Like making good lifting for Me (S+B+D about 550kg)
 i want making good Code for US (not america) 
 
 
@@ -26,7 +26,7 @@ i want making good Code for US (not america)
  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dhgusrms23)](https://velog.io/@dhgusrms23)
 
 
-🏅 Algorithm Bronze Level. 
+🏅 Algorithm Gold2 Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohe1013)](https://solved.ac/ohe1013/)  
 Programmers - LV3
