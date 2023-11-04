@@ -17,7 +17,8 @@ i want making good Code for US (not america)
 ![ohe1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohe1013&show_icons=true&theme=radical)
 
 🤜🤛 Group
-<img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+
+ <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
 
 🐱 About Me
 
