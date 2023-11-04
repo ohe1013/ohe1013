@@ -14,8 +14,6 @@ i want making good Code for US (not america)
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VScode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
-![ohe1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohe1013&show_icons=true&theme=radical)
-
 🤜🤛 Group
 
  <img src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
