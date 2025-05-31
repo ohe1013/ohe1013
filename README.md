@@ -33,6 +33,7 @@ Programmers - LV3
 💐 License
 |Prize|Date|
 |------|---|
+|AWS Certified Solutions Architect - Associate|Aug, 2024|
 |Engineer Information Processing|Apr, 2022|
 |SQLD|Jun, 2021|
 
