@@ -1,10 +1,6 @@
 ### Hi Welcome, i'm OH Hyunkeun 👋
 
-#### Web Devleoper / Front (feat. Back)
-Like making good dishes for Me
-Like making good lifting for Me (S+B+D about 550kg)
-i want making good Code for US (not america) 
-
+#### Web Developer / Front (feat. Back)
 
 🛠️ Stacks
 
